@@ -8,10 +8,9 @@ tags: entrada
 Fue la materia en donde interactué por primera vez con el campo de la programación, y me fascinó. Trabajé en la herramienta "Pseint", haciendo pseudocódigos y diagramas de flujo. Hasta hoy me he divertido mucho haciéndolo, y practico cada que puedo.
 
 
-### Concepto
+## Concepto
 
 Conjunto ordenado y finito de pasos que conllevan a la resolución de un problema.
-
 
 
 Un algoritmo tiene las siguientes características:
@@ -24,7 +23,7 @@ Efectivo: Cada instrucción deberá ser tan básica que puede llevarse a cabo, e
 
 
 
-#### Resumen
+### Resumen
 
 Me gusta mucho la materia y espero seguir aprendiendo todos los lineamientos para continuar superándome cada día. 
 
