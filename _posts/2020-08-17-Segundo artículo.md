@@ -24,7 +24,7 @@ Efectivo: Cada instrucción deberá ser tan básica que puede llevarse a cabo, e
 
 
 
-## Resumen
+#### Resumen
 
 Me gusta mucho la materia y espero seguir aprendiendo todos los lineamientos para continuar superándome cada día. 
 
