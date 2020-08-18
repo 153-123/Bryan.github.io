@@ -1,6 +1,7 @@
 ---
 title: ¡Segundo artículo!
 tags: entrada
+---
 
 # Algoritmos y lógica de programación.
 
