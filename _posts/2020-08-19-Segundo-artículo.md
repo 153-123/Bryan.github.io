@@ -1,19 +1,38 @@
 ---
-title: Bienvenidos a mi blog. ¡Mi segundo artículo!
+title: ¡Mi segundo artículo!
 tags: entrada
 ---
 
-# Título 1.
+# Pseudocóigo y diagrama de flujo
 
-En este artículo me presentaré y hablaré a rasgos generales de mi experiencia introduciéndome en el mundo de la programación.
+## Pseudocódigo, ¿qué es?
 
-Hola, soy Bryan, un estudiante de la carrera de software en la universidad estatal de Guayaquil. Voy en primer semestre, y mi introducción en el campo en la programación resultó ser un tanto problemática, puesto que, en el curso habían compañeros con mucha más experiencia, que se expresaban con términos que eran desconocidos para mí.
+El pseudocódigo es una manera de escribir algoritmos de forma poco estricta (con una sintaxis relajada) o estructuras de datos poco detalladas, pero intentando acercar las ideas del algoritmos a estructuras y sintaxis parecidas a las de los lenguajes de alto nivel en los que vamos a programar el algoritmo. Es para ser leído por personas, por tanto no se preocupa en detalles sintácticos. 
+ 
+Es un lenguaje de especificación de algoritmos, pero muy parecido a cualquier lenguaje de programación, por lo que luego su traducción al lenguaje de programación es muy sencillo, pero con la ventaja de que no se rige por las normas de un lenguaje en particular. Nos centramos más en la lógica del problema. 
 
-Mis maestros y su basta experiencia, ayudaron a que mi introducción sea más amena. Ellos hicieron lo posible, para que estudiantes como yo (sin ninguna experiencia previa en el campo) entendiesen sus materias de la mejor forma. 
+El pseudocódigo también va a utilizar una serie de palabras claves o palabras especiales que va indicando lo que significa el algoritmo. 
 
-## Subtítulo 1
+## Diagrama de flujo
 
-Tengo una familia reducida; vivo con mi hermano, mi madre y mi padrastro. Tengo 3 hermanos, dos hermanos y una hermana. Nací y viví en Guayaquil hasta la edad de doce años, cuando siguiendo a mi madre partimos hacia Guaranda, provincia de Bolivar. 
+Es una notación gráfica para implementar algoritmos. Se basa en la utilización de unos símbolos gráficos denominados bloques, en los que escribimos las acciones que tiene que realizar el algoritmo. 
 
-Vivir allí al principio fue un verdadero reto, todo era nuevo. Habían cosas que no entendía, como expresiones o costumbres. Al final me acostumbré. 
-A los 16 años regresé a la costa, a Durán, donde resido desde aquel entonces.
+Estos bloques están conectados entre sí por líneas y eso nos indica el orden en el que tenemos que ejecutar las acciones. En todo algoritmo siempre habrá un bloque de inicio y otro de fin, para el principio y final del algoritmo. 
+
+## Sintaxis
+
+ INICIO y FIN: Por donde empieza y acaba el algoritmo. 
+ DATOS: Aquí se declaran e inicializan las variables que utilizará el algoritmo. 
+ ALGORITMO: En esta sección se escribe el algoritmo. 
+ Pseudocódigo - Sintaxis Utilizada. 
+ Pseudocódigo de un algoritmo genérico: 
+ INICIO. 
+ DATOS: 
+ ** esto es un comentario *
+ * entero a ; *
+ * declaración de una variable entera *
+ * real b = 0 ; *
+ * declaración e inicialización de una variable *
+ * ALGORITMO: leer a ; b = a + 5 ; escribir b ; 
+ FIN.
+
