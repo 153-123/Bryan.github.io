@@ -1,5 +1,5 @@
 ---
-title: Bienvenidos a mi blog. ¡Mi primer artículo!
+title: Bienvenidos a mi blog. 
 tags: entrada
 ---
 
