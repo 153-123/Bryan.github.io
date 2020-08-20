@@ -1,5 +1,5 @@
 ---
-title: Bienvenidos a mi blog. ¡Mi tercer artículo!
+title: ¡Mi tercer artículo!
 tags: entrada
 ---
 
