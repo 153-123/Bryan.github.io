@@ -1,21 +1,35 @@
 ---
-title: Bienvenidos a mi blog. ¡Mi primer artículo!
+title: Bienvenidos a mi blog. ¡Mi tercer artículo!
 tags: entrada
 ---
 
-Mi nombre es Bryan Ronny Naranjo Guaman, tengo 20 años y vivo en el cantón Durán.
+# Sistemas operativos
 
-# Título 1.
+## ¿Qué es un sistema operativo?
 
-En este artículo me presentaré y hablaré a rasgos generales de mi experiencia introduciéndome en el mundo de la programación.
+Un Sistema Operativo (SO) es un programa (software) que cuando arrancamos o iniciamos el ordenador se encarga de gestionar todos los recursos del sistema informático, tanto del hardware (partes físicas, disco duro, pantalla, teclado, etc.) como del software (programas e instrucciones), permitiendo así la comunicación entre el usuario y el ordenador.
 
-Hola, soy Bryan, un estudiante de la carrera de software en la universidad estatal de Guayaquil. Voy en primer semestre, y mi introducción en el campo en la programación resultó ser un tanto problemática, puesto que, en el curso habían compañeros con mucha más experiencia, que se expresaban con términos que eran desconocidos para mí.
+Los otros programas son llamados aplicaciones. Resumiendo, un SO es el encargado de gestionar el software y el hardware de un ordenador o computadora.
+En su sentido más general, un SO es un software que permite a un usuario ejecutar otras aplicaciones en un dispositivo informático (ordenador, Smartphone, Tablet, etc.).
 
-Mis maestros y su basta experiencia, ayudaron a que mi introducción sea más amena. Ellos hicieron lo posible, para que estudiantes como yo (sin ninguna experiencia previa en el campo) entendiesen sus materias de la mejor forma. 
+ Los sistemas operativos generalmente vienen precargados en cualquier ordenador cuando lo compramos. La mayoría de la gente usa el sistema operativo que viene en su ordenador o móvil, pero es posible actualizarlo o incluso cambiar el sistema operativo por otro diferente.
+ 
+ ## ¿Para qué sirve?
+ 
+ Los sistemas operativos utilizan imágenes y botones para poder comunicarnos con el ordenador de forma sencilla y fácil para decirle lo que queremos hacer en cada momento a nuestro ordenador.
 
-## Subtítulo 1
+ Su función principal es la de darnos las herramientas necesarias para poder controlar nuestra computadora y poder hacer uso de ella, de la forma más cómoda y sencilla posible.
+ 
+ Las funciones básicas del Sistema Operativo son administrar los recursos del ordenador, coordinar el hardware y organizar archivos y directorios en los dispositivos de almacenamiento de nuestro ordenador.
 
-Tengo una familia reducida; vivo con mi hermano, mi madre y mi padrastro. Tengo 3 hermanos, dos hermanos y una hermana. Nací y viví en Guayaquil hasta la edad de doce años, cuando siguiendo a mi madre partimos hacia Guaranda, provincia de Bolivar. 
+# Tipos de sistemas operativos
 
-Vivir allí al principio fue un verdadero reto, todo era nuevo. Habían cosas que no entendía, como expresiones o costumbres. Al final me acostumbré. 
-A los 16 años regresé a la costa, a Durán, donde resido desde aquel entonces.
+Podemos decir que hay dos tipos de Sistemas Operativos: SO para PC y SO para teléfonos móviles.
+
+## Sitemas operativos para PC
+
+Los sistemas operativos para PC u ordenadores de sobremesa son muy variados y hay muchos, pero los más utilizados son el Windows, el Mac y el LINUX.
+
+## Sistemas operativos para móviles
+
+Los sistemas operativos para móviles y tablets más utilizados son Android e iOS
