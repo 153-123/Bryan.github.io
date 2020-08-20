@@ -33,3 +33,5 @@ Los sistemas operativos para PC u ordenadores de sobremesa son muy variados y ha
 ## Sistemas operativos para móviles
 
 Los sistemas operativos para móviles y tablets más utilizados son Android e iOS
+
+https://www.areatecnologia.com/informatica/imagenes/so.jpg
